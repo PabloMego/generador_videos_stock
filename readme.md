@@ -127,9 +127,3 @@ Genera grandes volúmenes de vídeos en poco tiempo y reduce costes ⚡
 Deja el script trabajando mientras duermes y despierta con vídeos listos 😴➡️💰
 
 ---
-
-## 🚀 Uso básico
-
-```bash
-pip install -r requirements.txt
-python main.py audio.mp3
